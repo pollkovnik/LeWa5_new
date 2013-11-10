@@ -2518,4 +2518,7 @@
     <string name="sim_settings_guide_datasave_summary">Рекомендуется ограничить объем трафика. Так как в случае его превышения оператором могут взыматься дополнительные платежи</string>
     <string name="sim_settings_guide_video_summary">Выбор поддержки 3G для SIM-карты, с которой будут совершаться видеовызовы</string>
     <string name="sim_settings_guide_fastmode_summary">Интеллектуальный быстрый набор и отправка сообщений</string>
+    <string name="halo_title">Гало</string>
+    <string name="halo_summary_on">Открыть Гало</string>
+    <string name="halo_summary_off">Закрыть Гало</string>
 </resources>

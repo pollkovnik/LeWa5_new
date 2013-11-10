@@ -1580,5 +1580,5 @@
     <string name="sim_contact_residue_count">%s контактовможно импортировать</string>
     <string name="import_from_sim_choose_account">Импорт контактов с SIM-карты под аккаунтом</string>
     <string name="export_to_sim_choose_account">Экспорт контактов с SIM-карты под аккаунтом</string>
-    <string name="sim_has_no_data">Выбранная SIM-карта не имеет контактов</string>    <string name="preferce_import">Импорт</string>
+    <string name="sim_has_no_data">Выбранная SIM-карта не имеет контактов</string>
 </resources>
