@@ -4,7 +4,7 @@
     <string name="mb">Мб</string>
     <string name="gb">Гб</string>
     <string name="nosim">Нет данных о трафике</string>
-    <string name="nosim_set">Кол-во трафика не устан.</string>
+    <string name="nosim_set">Норма трафика не установлена</string>
     <string name="used">Использовано</string>
     <string name="surplus">Осталось</string>
     <string name="noalarm">Новый будильник</string>

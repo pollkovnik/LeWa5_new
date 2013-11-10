@@ -18,7 +18,7 @@
 	<Group alpha="ifelse(#lock_state_normal,#guid_tips_alpha_miss,#guid_tips_alpha_show)-(#lock_offsetY+#call_offsetY+#mess_offsetY)">
 		<Text x="#screen_width/2" y="#screen_height*894/1280-120" color="#ff77ec5c" align="center" size="32" text="Сдвиньте вниз для ответа" visibility="ne(#unlocker_lock.state,0)"/>
 		<Text x="602" y="#screen_height-1280+919-150" color="#ffe7402b" align="center" size="24" text="Отклонить вызов" visibility="ne(#unlocker_mess.state,0)"/>
-		<Text x="118" y="#screen_height-1280+919-150" color="#ffFFFFFF" align="center" size="24" text="Отправить SMS" visibility="ne(#unlocker_call.state,0)"/>
+		<Text x="118" y="#screen_height-1280+919-150" color="#ffFFFFFF" align="center" size="24" text="SMS ответ" visibility="ne(#unlocker_call.state,0)"/>
 	</Group>
 	<Group name="lock_part">
 		<Var name="unlocker_pos_centerY" expression="#screen_height-1280+919"/>
