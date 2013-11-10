@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="russian_name_array">
+        <item>Режим полета</item>
+        <item>Мобильные сети</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Привязка &amp;amp; портативная точкв доступа</item>
+        <item>VPN</item>
+        <item>Звук &amp;amp; Вибрация</item>
+        <item>Монитор</item>
+        <item>Дом</item>
+        <item>Темы</item>
+        <item>Обои</item>
+        <item>Тумблер</item>
+        <item>Аккаунты &amp;amp; синхронизация</item>
+        <item>Расположение &amp;amp; Безопасность</item>
+        <item>Дата &amp;amp; Время</item>
+        <item>Язык &amp;amp; Ввод</item>
+        <item>Производительность</item>
+        <item>Клавиатура</item>
+        <item>Накопитель</item>
+        <item>Доступность</item>
+        <item>Мониторинг данных</item>
+        <item>Параметры блокировки</item>
+        <item>Версия для обновления</item>
+        <item>Обратная связь</item>
+        <item>Сброс данных</item>
+        <item>Разработка</item>
+        <item>Управление приложениями</item>
+        <item>Звонок</item>
+        <item>Сообщения</item>
+    </string-array>
+</resources>

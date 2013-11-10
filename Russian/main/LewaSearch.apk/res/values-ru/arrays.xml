@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="english_name_array">
+        <item>Настройки вызова</item>
+        <item>Выбор темы</item>
+        <item>Перехватчик</item>
+        <item>Обновление</item>
+        <item>Настройки голосового вызова</item>
+    </string-array>
+</resources>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bt_chip_eco">
+        <item>НЕИЗВЕСТНО</item>
+        <item>E1</item>
+        <item>E2</item>
+        <item>E3</item>
+        <item>E4</item>
+        <item>E5</item>
+        <item>E6</item>
+        <item>E7</item>
+    </string-array>
+    <string-array name="tx_pattern">
+        <item>0000</item>
+        <item>1111</item>
+        <item>1010</item>
+        <item>Случайный бит</item>
+        <item>11110000</item>
+    </string-array>
+    <string-array name="tx_channels">
+        <item>Одиночная частота</item>
+        <item>79 канал</item>
+    </string-array>
+    <string-array name="working_mode_audio_channels">
+        <item>Без изменений</item>
+        <item>AL2 WithSeqNum</item>
+        <item>AL2 WithoutSeqNum</item>
+        <item>AL3 ControlFieldSize0</item>
+        <item>AL3 ControlFieldSize1</item>
+        <item>AL3 ControlFieldSize2</item>
+    </string-array>
+    <string-array name="working_mode_video_channels">
+        <item>Без изменений</item>
+        <item>AL2 WithSeqNum</item>
+        <item>AL2 WithoutSeqNum</item>
+        <item>AL3 ControlFieldSize0</item>
+        <item>AL3 ControlFieldSize1</item>
+        <item>AL3 ControlFieldSize2</item>
+    </string-array>
+    <string-array name="working_mode_video_channels_reverse">
+        <item>Без изменений</item>
+        <item>Обратные данные</item>
+        <item>Обратный NULL</item>
+    </string-array>
+    <string-array name="working_mode_multiplex_level">
+        <item>Без изменений</item>
+        <item>MuxLevel 0</item>
+        <item>MuxLevel 1</item>
+        <item>MuxLevel 1 With Double Flag</item>
+        <item>MuxLevel 2</item>
+        <item>MuxLevel 2 With Optional Header</item>
+        <item>MuxLevel 3</item>
+        <item>MuxLevel 3 With Optional Header</item>
+    </string-array>
+    <string-array name="working_mode_video_codec_preference">
+        <item>Без изменений</item>
+        <item>MPEG4_H263</item>
+        <item>H263_MPEG4</item>
+    </string-array>
+    <string-array name="working_mode_use_wnsrp">
+        <item>Без изменений</item>
+        <item>ВЫКЛ</item>
+        <item>ВКЛ</item>
+    </string-array>
+    <string-array name="working_mode_terminal_type">
+        <item>Без изменений</item>
+        <item>Нормальный</item>
+        <item>Мастер</item>
+        <item>Рабочий</item>
+    </string-array>
+
+    <string-array name="nsrx_pattern">
+        <item>0000</item>
+        <item>1111</item>
+        <item>1010</item>
+        <item>Случайный бит</item>
+        <item>11110000</item>
+    </string-array>
+    <string-array name="modem_test_cta_options">
+        <item>Проверка целостности</item>
+        <item>RLC TL1</item>
+        <item>K1297</item>
+        <item>SN Conflict</item>
+        <item>CF query</item>
+        <item>DLMN lock</item>
+        <item>Измерения открыты</item>
+        <item>Отключить DPA</item>
+        <item>Intra CMR</item>
+    </string-array>
+    <string-array name="modem_test_iot_options">
+        <item>Быстрый покой</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/TD (авторежим)</item>
+        <item>Только TD</item>
+        <item>Только GSM</item>
+    </string-array>
+    <string-array name="device_mgr_entries">
+        <item>Отключить</item>
+        <item>Включить</item>
+    </string-array>
+    <string-array name="audio_functions">
+        <item>Нормальный режим</item>
+        <item>Headset Mode</item>
+        <item>LoudSpeaker Mode</item>
+        <item>Headset_LoudSpeaker Mode</item>
+        <item>Speech Enhancement</item>
+        <item>Debug Info</item>
+        <item>Speech Logger</item>
+        <item>Audio Logger</item>
+    </string-array>
+    <string-array name="nvram_wificode_array">
+        <item>1-14ch(JP)</item>
+        <item>1-13ch(EU)</item>
+        <item>1-11ch(US)</item>
+    </string-array>
+</resources>

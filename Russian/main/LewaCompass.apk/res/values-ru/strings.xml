@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компас</string>
+    <string name="north">Север_</string>
+    <string name="northeast">Северо-восток_</string>
+    <string name="east">Восток_</string>
+    <string name="southeast">Юго-восток_</string>
+    <string name="south">Юг_</string>
+    <string name="southwest">Юго-запад_</string>
+    <string name="west">Запад_</string>
+    <string name="northwest">Северо-запад_</string>
+    <string name="accuracy_prompt">Вблизи магнитных помех, встряхните телефон и опишите в воздухе им цифру 8 для калибровки датчика компаса</string>
+</resources>

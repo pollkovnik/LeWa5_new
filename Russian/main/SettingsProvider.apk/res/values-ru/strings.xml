@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+    <string name="mtk_rtsp_name">Поток</string>
+
+
+
+
+
+    <string name="app_label">Настройки накопителя</string>
+    <string name="def_date_format">yyyy.MM.dd-EE</string>
+</resources>

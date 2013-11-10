@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_camera_coloreffect_entryvalues">
+        <item>нет</item>
+        <item>моно</item>
+        <item>сепия</item>
+        <item>негатив</item>
+        <item>соляризация</item>
+        <item>постеризация</item>
+        <item>вода</item>
+        <item>пастельный</item>
+        <item>мозайка</item>
+        <item>красный оттенок</item>
+        <item>голубой оттенок</item>
+        <item>зеленый оттенок</item>
+        <item>черная доска</item>
+        <item>белая доска</item>
+        <item>сепия голубая</item>
+        <item>сепия зеленая</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>авто</item>
+        <item>норма</item>
+        <item>ночь</item>
+        <item>закат</item>
+        <item>вечеринка</item>
+        <item>портрет</item>
+        <item>пейзаж</item>
+        <item>ночной портрет</item>
+        <item>театр</item>
+        <item>пляж</item>
+        <item>снег</item>
+        <item>четкий снимок</item>
+        <item>фейерверк</item>
+        <item>спорт</item>
+        <item>свет свечи</item>
+        <item>день</item>
+        <item>дневной портрет</item>
+    </string-array>
+    <string-array name="week_string">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+</resources>

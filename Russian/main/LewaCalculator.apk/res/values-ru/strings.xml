@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="error">Ошибка</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="basic">Основная панель</string>
+    <string name="advanced">Расширенная панель</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="text_copied_toast">Текст скопирован</string>
+    <string name="goback">Назад</string>
+    <string name="advance">Расширенный</string>
+    <string name="history">История</string>
+</resources>

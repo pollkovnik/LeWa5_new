@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add_More_Ringtones">Больше рингтонов ...</string>
+    <string name="ringtone_custom">Пользовательский...</string>
+    <string name="uid_label">Медиа</string>
+    <string name="app_label">Медиа накопитель</string>
+    <string name="upgrade_msg">Обновление мультимедийной базы данных.</string>
+    <string name="artist_label">Артист</string>
+</resources>

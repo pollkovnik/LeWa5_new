@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Первый раз</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>Все языки</item>
+        <item>Немецкий</item>
+        <item>Английский</item>
+        <item>Итальянский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Голландский</item>
+        <item>Шведский</item>
+        <item>Датский</item>
+        <item>Португальский</item>
+        <item>Финский</item>
+        <item>Норвежский</item>
+        <item>Греческий</item>
+        <item>Турецкий</item>
+        <item>Венгерский</item>
+        <item>Польский</item>
+        <item>Другие</item>
+        <item>Чешский</item>
+        <item>Иврит</item>
+        <item>Арабский</item>
+        <item>Русский</item>
+        <item>Исландский</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>Два диапазона</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>Два диапазона</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (авто режим)</item>
+        <item>WCDMA только</item>
+        <item>GSM только</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (auto mode)</item>
+        <item>TD-SCDMA только</item>
+        <item>GSM только</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto mode)</item>
+        <item>WCDMA только</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (авто)</item>
+        <item>TD-SCDMA только</item>
+    </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Выкл.</item>
+        <item>Все номера</item>
+        <item>Авто черный список</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Контакты</item>
+        <item>Список вызовов</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Настройки сети по умолчанию</item>
+        <item>Скрыть номер</item>
+        <item>Показывать номер</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>По умолчанию</item>
+        <item>Спрятать</item>
+        <item>Показать</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>EvDo только</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA/EvDo авто</item>
+        <item>GSM/WCDMA авто</item>
+        <item>WCDMA только</item>
+        <item>GSM только</item>
+        <item>GSM/WCDMA приоритет</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Телетайп выключен</item>
+        <item>Полнофункциональный телетайп</item>
+        <item>Телетайп с возможностью слышать собеседника</item>
+        <item>Телетайп с возможностью передачи голоса</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычно</item>
+        <item>Длинее</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Всегда</item>
+        <item>Только в тихом режиме</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="dialpad_tone_types">
+        <item>Тональный</item>
+        <item>Пианино</item>
+        <item>Гитара</item>
+        <item>Тишина</item>
+    </string-array>
+</resources>

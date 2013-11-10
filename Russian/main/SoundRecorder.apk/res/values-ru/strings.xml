@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_artist_name">Неизвестный исполнитель</string>
+    <string name="tell_save_record_success">Сохранение успешно</string>
+    <string name="save_record">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="recording_format_high">Высокое</string>
+    <string name="recording_format_mid">Среднее</string>
+    <string name="recording_format_low">Низкое</string>
+    <string name="three_mins_avail_total">3 минуты доступно</string>
+    <string name="alert_delete_multiple">Эти элементы будут удалены</string>
+    <string name="alert_delete_single">Этот элемент будет удален</string>
+
+    <string name="delete">Удалить</string>
+    <string name="deleting">Удаление</string>
+    <string name="no_recording_file">(Нет записей)</string>
+    <string name="recording_file_list">Список записей</string>
+    <string name="recording_paused">Запись приостановлена</string>
+    <string name="voice_quality">Качество голоса</string>
+    <string name="recording_mode">Режим записи</string>
+    <string name="recording_effect">Эффекты записи</string>
+    <string name="select_voice_quality">Выберите качество голоса</string>
+    <string name="select_recording_mode">Выберите режим записи</string>
+    <string name="select_recording_effect">Выберите эффекты</string>
+    <string name="recording_mode_nomal">Нормальный</string>
+    <string name="time_available" formatted="false">%d минут %ds доступно</string>
+    <string name="recording_mode_meeting">Встреча</string>
+    <string name="recording_mode_lecture">Лекция</string>
+    <string name="sd_unmounted">SD карта отключена.</string>
+    <string name="storage_low">На SD карте закончилось место. Остановите запись или удалять лишние элементы на SD-карте.</string>
+    <string name="storage_full">Память заполнена.</string>
+    <string name="sd_no">Вставьте SD карту.</string>
+    <string name="recording_fail">Ошибка в записи</string>
+    <string name="recorder_occupied">Диктофон занят другим приложением.</string>
+    <string name="playing_fail">Ошибка воспроизведения</string>
+    <string name="player_occupied">Плеер занят другим приложением.</string>
+    <string name="recording_doc_deleted">Запись была удалена.</string>
+    <string name="saving_fail">Ошибка при сохранении</string>
+    <string name="deleting_fail">Ошибка при удалении</string>
+    <string name="accessing_db_fail">Ошибка в доступе к базе данных.</string>
+    <string name="recording_effect_AGC">Автоматическая регулировка усиления</string>
+    <string name="recording_effect_AEC">Подавление эха</string>
+    <string name="recording_effect_NS">Подавление шума</string>
+    <string name="app_name">Диктофон</string>
+    <string name="recording">Запись...</string>
+    <string name="recording_stopped">Запись остановлена</string>
+    <string name="storage_is_full">Хранилище заполнено</string>
+    <string name="max_length_reached">Достигнута максимальная продолжительность</string>
+    <string name="min_available">%d мин. доступно</string>
+    <string name="sec_available">%ds доступно</string>
+    <string name="accept">Выполнено</string>
+    <string name="discard">Сброс</string>
+
+    <string name="audio_db_album_name">Аудиозаписи</string>
+    <string name="audio_db_playlist_name">Мои записи</string>
+    <string name="error_sdcard_access">Не удается получить доступ к SD карте</string>
+    <string name="error_mediadb_new_record">Не удается сохранить записанное аудио</string>
+    <string name="insert_sd_card">Вставьте SD карту</string>
+
+    <string name="record_your_message">Записать сообщение</string>
+    <string name="message_recorded">Сообщение записано</string>
+    <string name="review_message">Обзор сообщений</string>
+
+    <string name="audio_db_artist_name">Ваши записи</string>
+    <string name="error_app_internal">Внутренняя ошибка приложения</string>
+</resources>

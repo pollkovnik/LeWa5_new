@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_method">
+        <item>Только Wi-Fi</item>
+        <item>Разрешить все</item>
+    </string-array>
+
+
+
+
+    <string-array name="eq_genres">
+        <item>Отсутствует</item>
+        <item>Общий</item>
+        <item>Классика</item>
+        <item>Бал</item>
+        <item>Фольклор</item>
+        <item>Тяж. метал</item>
+        <item>Хип-хоп</item>
+        <item>Джаз</item>
+        <item>Поп</item>
+        <item>Рок</item>
+        <item>Пользовательский</item>
+    </string-array>
+    <string-array name="bg_choise">
+        <item>Мечта</item>
+        <item>Капли</item>
+        <item>Сумерки</item>
+        <item>Янтарь</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
