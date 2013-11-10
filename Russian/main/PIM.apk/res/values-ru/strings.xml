@@ -1312,9 +1312,9 @@
     <string name="contacts_show_option_label">Параметры отображения контактов</string>
     <string name="title_contacts_settings">Настройка контактов</string>
     <string name="title_stick_photo">Изменить фото контакта</string>
-    <string name="prompt_no_contacts_pepole">У вас нет контакта</string>
-    <string name="prompt_no_contacts_people_propose">"Вы можете импортировать контакты из SIM карты 
-   или из другого места"</string>
+    <string name="prompt_no_contacts_pepole">У вас нет контактов</string>
+    <string name="prompt_no_contacts_people_propose">"Вы можете импортировать контакты  
+   из SIM карты или из другого места"</string>
     <string name="login_lewa_account">Зайти в LeWa аккаунт</string>
     <string name="prompt_contact_myself">Я</string>
     <string name="prompt_no_profile_data">Вы не добавили полную информацию в визитную карточку</string>
@@ -1393,7 +1393,7 @@
     <string name="mms_menu_del_message">Удалить сообщение</string>
     <string name="mms_menu_quick_text">быстрый текст</string>
     <string name="mms_select_contacts_favorites">Избранное</string>
-    <string name="sms_recommend_message">Заготовки сообщений</string>
+    <string name="sms_recommend_message">Шаблоны сообщений</string>
     <string name="sms_recommend_copy_text">копировать</string>
     <string name="sms_recommend_copy_text_ready">скопировано</string>
     <string name="mms_menu_select_title">выбрать</string>
