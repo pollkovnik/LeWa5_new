@@ -23,9 +23,9 @@
     <string name="global_action_screenshot">Снимок экрана</string>
     <string name="global_action_toggle_silent_mode">Беззвучный режим</string>
     <string name="reboot_progress">Перезагрузка…</string>
-    <string name="reboot_reboot">Перезагрузка</string>
-    <string name="reboot_system">Перезагрузка устройства</string>
-    <string name="power_off">Выключение</string>
+    <string name="reboot_reboot">Системы</string>
+    <string name="reboot_system">Перезагрузка</string>
+    <string name="power_off">Выключение телефона</string>
     <string name="shutdown_progress">Выключение…</string>
     <string name="shutdown_confirm">Устройство будет выключено</string>
 
@@ -105,7 +105,7 @@
     <string name="lunar_year">год</string>
     <string name="lunar_yue">месяц</string>
     <string name="global_action_screenshot_status">Нажмите одновременно кнопки: Питание и громкость "-" для получения скриншота</string>
-    <string name="reboot_recovery">В рекавери</string>
+    <string name="reboot_recovery">Переход в рекавери</string>
     <string name="reboot_bootloader">Загрузчик</string>
     <string name="reboot_bootmenu">Загрузочное меню</string>
     <string name="reboot_fastboot">Быстрая загрузка</string>
